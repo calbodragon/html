@@ -1,0 +1,40 @@
+.link_menu{
+    color: yellow;
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+.link_menu-selected{
+    font-size:  118px;
+    font-weight: bold;
+    color: burlywood;
+
+
+}
+
+.link_menu-selected{
+
+}
+
+#box_1{
+    width: 1000px;
+    height:1000px;
+    background-color: aquamarine;
+    margin: 10px;
+    padding: 25px ;
+    border: 3px dotted red;
+    border-radius: 25px;
+
+    background-image: url('https://meisi.es/diseno/wp-content/uploads/2017/07/DEST-85.png');
+    background-repeat:repeat-x repeat-y;
+    background-position: left top; 
+}
+.round-img{
+    border: 3px;
+    border-radius: 300px;
+}
+
+#row_f{
+    wi
+}

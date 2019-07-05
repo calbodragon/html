@@ -1,0 +1,76 @@
+  
+#contenedor{
+    background-color: rgb(25, 247, 73);
+    border-radius: 13px;
+    width: 70%;
+    padding: 30px;
+    margin: 40px;
+    margin:auto;
+    
+} 
+
+
+
+.kuro{
+    border-radius: 25px;
+    background: rgb(85, 177, 120);
+    padding: 20px;
+    margin-block: 30px;
+
+}
+
+body{
+    background-color: rgb(103, 145, 27)
+}
+
+
+
+#titulo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-right: 100px;
+    border-block-color: green;
+
+}
+.recuadro{
+    width: 100px;
+    height: 400px;
+}
+.m{
+    border-left-color: yellow;
+    background-color:goldenrod;
+    margin-right: 25cm;
+    
+}
+.foto{
+    border-radius: 25px;
+    margin-left: 240px;  
+}
+li{
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    color: black;
+    
+}
+.datos{
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 15px 10px;
+  background-color: rgb(149, 240, 14);
+  margin-right:22cm; 
+  color: white;
+  width: 150px; height: 120px;
+}
+
+@media only screen and (min-width: 600px) {
+    body{ background: rgb(56, 50, 129);
+    }
+@media only screen and (min-width: 600px) {
+    #contenedor{background: rgb(48, 97, 129);
+    }
+@media only screen and (min-width: 600px) {
+    .kuro {background: rgb(7, 24, 102);
+    }
+@media only screen and (min-width: 360px) {
+    .m {background: rgb(94, 87, 150);
+    }
+@media only screen and (min-width:360px) {
+    .datos {background-color: rgb(10, 45, 78);
+        }
