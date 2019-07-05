@@ -1,0 +1,47 @@
+header{
+    background-color: white;
+    border-end-start-radius: rgb(186, 186, 243) 
+}
+#uno {
+
+    margin-left :25px;
+    padding: 0pt
+
+}
+
+#dos{
+background-image: url("galeria/fondo.jpg");
+background-repeat: no-repeat;
+background-color: transparent;
+margin-left: 26px;
+margin-top: -5px
+
+}
+.back{
+    width: 350px;
+    height: 180px;
+
+}
+
+
+
+.imgredonda {
+    width:40px;
+    height:40px;
+    border-radius:150px;
+    margin-left: 10px;
+    margin-top: 40px;
+}
+.monedero{
+    margin-top: 20px;
+    margin-left: 13px;
+}
+
+.nombre{
+    margin-left: 90px;
+    margin-top: -20px
+}
+.precio{
+    margin-left: 120px;
+    margin-top: -18px
+}
